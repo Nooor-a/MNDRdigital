@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 23,
+    "height" : 16
+  }, {
+    "width" : 46,
+    "height" : 32
+  }, {
+    "width" : 92,
+    "height" : 64
+  }, {
+    "width" : 184,
+    "height" : 128
+  }, {
+    "width" : 368,
+    "height" : 255
+  }, {
+    "width" : 735,
+    "height" : 510
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 735,
+  "@id" : "https://Nooor-a.github.io/MNDRdigital/images/Ring",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 510
+}
