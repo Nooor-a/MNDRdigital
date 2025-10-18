@@ -252,6 +252,168 @@
             ]
         },
         {
+            "id": "https://Nooor-a.github.io/MNDRdigital/images/TheSaltingCarpet/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "TheSaltingCarpet"
+                ]
+            },
+            "height": 989,
+            "width": 735,
+            "items": [
+                {
+                    "id": "https://Nooor-a.github.io/MNDRdigital/images/TheSaltingCarpet/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Nooor-a.github.io/MNDRdigital/images/TheSaltingCarpet/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Nooor-a.github.io/MNDRdigital/images/TheSaltingCarpet/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 23,
+                                                "height": 31
+                                            },
+                                            {
+                                                "width": 46,
+                                                "height": 62
+                                            },
+                                            {
+                                                "width": 92,
+                                                "height": 124
+                                            },
+                                            {
+                                                "width": 184,
+                                                "height": 248
+                                            },
+                                            {
+                                                "width": 368,
+                                                "height": 495
+                                            },
+                                            {
+                                                "width": 735,
+                                                "height": 989
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 735,
+                                        "@id": "https://Nooor-a.github.io/MNDRdigital/images/TheSaltingCarpet",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 989,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Nooor-a.github.io/MNDRdigital/images/TheSaltingCarpet/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://Nooor-a.github.io/MNDRdigital/images/Dish/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Dish"
+                ]
+            },
+            "height": 981,
+            "width": 735,
+            "items": [
+                {
+                    "id": "https://Nooor-a.github.io/MNDRdigital/images/Dish/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Nooor-a.github.io/MNDRdigital/images/Dish/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Nooor-a.github.io/MNDRdigital/images/Dish/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 23,
+                                                "height": 31
+                                            },
+                                            {
+                                                "width": 46,
+                                                "height": 62
+                                            },
+                                            {
+                                                "width": 92,
+                                                "height": 123
+                                            },
+                                            {
+                                                "width": 184,
+                                                "height": 246
+                                            },
+                                            {
+                                                "width": 368,
+                                                "height": 491
+                                            },
+                                            {
+                                                "width": 735,
+                                                "height": 981
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 735,
+                                        "@id": "https://Nooor-a.github.io/MNDRdigital/images/Dish",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 981,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Nooor-a.github.io/MNDRdigital/images/Dish/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://Nooor-a.github.io/MNDRdigital/images/EmperorHeracliusCoin/canvas/",
             "type": "Canvas",
             "label": {
