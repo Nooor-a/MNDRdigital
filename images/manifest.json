@@ -9,87 +9,6 @@
     },
     "items": [
         {
-            "id": "https://Nooor-a.github.io/MNDRdigital/images/Astrolabe/canvas/",
-            "type": "Canvas",
-            "label": {
-                "none": [
-                    "Astrolabe"
-                ]
-            },
-            "height": 932,
-            "width": 735,
-            "items": [
-                {
-                    "id": "https://Nooor-a.github.io/MNDRdigital/images/Astrolabe/annotation/AnnoPage",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://Nooor-a.github.io/MNDRdigital/images/Astrolabe/annotation/",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://Nooor-a.github.io/MNDRdigital/images/Astrolabe/full/full/0/default.jpg",
-                                "type": "Image",
-                                "service": [
-                                    {
-                                        "tiles": [
-                                            {
-                                                "scaleFactors": [
-                                                    32,
-                                                    16,
-                                                    8,
-                                                    4,
-                                                    2,
-                                                    1
-                                                ],
-                                                "width": 1024,
-                                                "height": 1024
-                                            }
-                                        ],
-                                        "protocol": "http://iiif.io/api/image",
-                                        "sizes": [
-                                            {
-                                                "width": 23,
-                                                "height": 30
-                                            },
-                                            {
-                                                "width": 46,
-                                                "height": 59
-                                            },
-                                            {
-                                                "width": 92,
-                                                "height": 117
-                                            },
-                                            {
-                                                "width": 184,
-                                                "height": 233
-                                            },
-                                            {
-                                                "width": 368,
-                                                "height": 466
-                                            },
-                                            {
-                                                "width": 735,
-                                                "height": 932
-                                            }
-                                        ],
-                                        "profile": "http://iiif.io/api/image/2/level0.json",
-                                        "width": 735,
-                                        "@id": "https://Nooor-a.github.io/MNDRdigital/images/Astrolabe",
-                                        "@context": "http://iiif.io/api/image/2/context.json",
-                                        "height": 932,
-                                        "@type": "ImageService2"
-                                    }
-                                ],
-                                "format": "image/jpeg"
-                            },
-                            "target": "https://Nooor-a.github.io/MNDRdigital/images/Astrolabe/canvas/"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "id": "https://Nooor-a.github.io/MNDRdigital/images/Ring/canvas/",
             "type": "Canvas",
             "label": {
@@ -252,6 +171,87 @@
             ]
         },
         {
+            "id": "https://Nooor-a.github.io/MNDRdigital/images/TheClareChasuble/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "TheClareChasuble"
+                ]
+            },
+            "height": 981,
+            "width": 735,
+            "items": [
+                {
+                    "id": "https://Nooor-a.github.io/MNDRdigital/images/TheClareChasuble/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Nooor-a.github.io/MNDRdigital/images/TheClareChasuble/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Nooor-a.github.io/MNDRdigital/images/TheClareChasuble/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 23,
+                                                "height": 31
+                                            },
+                                            {
+                                                "width": 46,
+                                                "height": 62
+                                            },
+                                            {
+                                                "width": 92,
+                                                "height": 123
+                                            },
+                                            {
+                                                "width": 184,
+                                                "height": 246
+                                            },
+                                            {
+                                                "width": 368,
+                                                "height": 491
+                                            },
+                                            {
+                                                "width": 735,
+                                                "height": 981
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 735,
+                                        "@id": "https://Nooor-a.github.io/MNDRdigital/images/TheClareChasuble",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 981,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Nooor-a.github.io/MNDRdigital/images/TheClareChasuble/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://Nooor-a.github.io/MNDRdigital/images/inkwell/canvas/",
             "type": "Canvas",
             "label": {
@@ -327,6 +327,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://Nooor-a.github.io/MNDRdigital/images/inkwell/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://Nooor-a.github.io/MNDRdigital/images/Astrolabe/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Astrolabe"
+                ]
+            },
+            "height": 932,
+            "width": 735,
+            "items": [
+                {
+                    "id": "https://Nooor-a.github.io/MNDRdigital/images/Astrolabe/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Nooor-a.github.io/MNDRdigital/images/Astrolabe/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Nooor-a.github.io/MNDRdigital/images/Astrolabe/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 23,
+                                                "height": 30
+                                            },
+                                            {
+                                                "width": 46,
+                                                "height": 59
+                                            },
+                                            {
+                                                "width": 92,
+                                                "height": 117
+                                            },
+                                            {
+                                                "width": 184,
+                                                "height": 233
+                                            },
+                                            {
+                                                "width": 368,
+                                                "height": 466
+                                            },
+                                            {
+                                                "width": 735,
+                                                "height": 932
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 735,
+                                        "@id": "https://Nooor-a.github.io/MNDRdigital/images/Astrolabe",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 932,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Nooor-a.github.io/MNDRdigital/images/Astrolabe/canvas/"
                         }
                     ]
                 }
