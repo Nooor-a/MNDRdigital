@@ -817,6 +817,87 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "https://Nooor-a.github.io/MNDRdigital/images/BehistunInscription/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "BehistunInscription"
+                ]
+            },
+            "height": 460,
+            "width": 1280,
+            "items": [
+                {
+                    "id": "https://Nooor-a.github.io/MNDRdigital/images/BehistunInscription/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Nooor-a.github.io/MNDRdigital/images/BehistunInscription/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Nooor-a.github.io/MNDRdigital/images/BehistunInscription/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 40,
+                                                "height": 15
+                                            },
+                                            {
+                                                "width": 80,
+                                                "height": 29
+                                            },
+                                            {
+                                                "width": 160,
+                                                "height": 58
+                                            },
+                                            {
+                                                "width": 320,
+                                                "height": 115
+                                            },
+                                            {
+                                                "width": 640,
+                                                "height": 230
+                                            },
+                                            {
+                                                "width": 1280,
+                                                "height": 460
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1280,
+                                        "@id": "https://Nooor-a.github.io/MNDRdigital/images/BehistunInscription",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 460,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Nooor-a.github.io/MNDRdigital/images/BehistunInscription/canvas/"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
