@@ -25,9 +25,9 @@
       ],
       "canvases": [
         {
-          "@id": "https://f6a83cf9-4550-4f4e-a226-6b22b1c2c2e9",
+          "@id": "https://nooor-a.github.io/MNDRdigital/canvas/canvas1",
           "@type": "sc:Canvas",
-          "label": "Behistun Inscription",
+          "label": "Page 1",
           "height": 460,
           "width": 1280,
           "images": [
@@ -51,13 +51,13 @@
               "on": "https://f6a83cf9-4550-4f4e-a226-6b22b1c2c2e9"
             }
           ],
-          "otherContent": [
-            {
-              "@id": "https://dev.gdmrdigital.com/annotations/1245635613/237492577/0d12fb599ebc985c7fbcde4a00c49d7f.json",
-              "@type": "sc:AnnotationList",
-              "label": "Behistun Inscription annotations"
-            }
-          ]
+         "otherContent": [
+  {
+    "@id": "https://nooor-a.github.io/MNDRdigital/annotations/canvas1.json",
+    "@type": "sc:AnnotationList"
+  }
+]
+
         },
         {
           "@id": "https://b7b8405d-bb41-493d-ab95-ea8c8b8191c5",
