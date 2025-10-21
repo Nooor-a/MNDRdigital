@@ -1,5 +1,5 @@
 {
-  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@context" : "https://iiif.io/api/presentation/2/context.json",
   "@id" : "https://Nooor-a.github.io/MNDRdigital/manifests/manifest.json",
   "@type" : "sc:Manifest",
   "label" : "MNDRdigital",
@@ -11,21 +11,21 @@
   "license" : "https://creativecommons.org/licenses/by/3.0/",
   "attribution" : "Mahshid Kheiri, Noura Nimafar",
   "sequences" : [ {
-    "@id" : "http://18050369-80c6-4724-84c4-1983edf66090",
+    "@id" : "https://18050369-80c6-4724-84c4-1983edf66090",
     "@type" : "sc:Sequence",
     "label" : [ {
       "@value" : "Normal Sequence",
       "@language" : "en"
     } ],
     "canvases" : [ {
-      "@id" : "http://f6a83cf9-4550-4f4e-a226-6b22b1c2c2e9",
+      "@id" : "https://f6a83cf9-4550-4f4e-a226-6b22b1c2c2e9",
       "@type" : "sc:Canvas",
       "label" : "Behistun Inscription",
       "height" : 460,
       "width" : 1280,
       "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://77d16a34-d5c7-4e58-9b48-b3c6830fee54",
+        "@context" : "https://iiif.io/api/presentation/2/context.json",
+        "@id" : "https://77d16a34-d5c7-4e58-9b48-b3c6830fee54",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
@@ -33,25 +33,25 @@
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@context" : "https://iiif.io/api/image/2/context.json",
             "@id" : "https://nooor-a.github.io/MNDRdigital/images/BehistunInscription",
-            "profile" : "http://iiif.io/api/image/2/level0.json"
+            "profile" : "https://iiif.io/api/image/2/level0.json"
           },
           "height" : 460,
           "width" : 1280
         },
-        "on" : "http://f6a83cf9-4550-4f4e-a226-6b22b1c2c2e9"
+        "on" : "https://f6a83cf9-4550-4f4e-a226-6b22b1c2c2e9"
       } ],
       "related" : ""
     }, {
-      "@id" : "http://b7b8405d-bb41-493d-ab95-ea8c8b8191c5",
+      "@id" : "https://b7b8405d-bb41-493d-ab95-ea8c8b8191c5",
       "@type" : "sc:Canvas",
       "label" : "Astrolabe",
       "height" : 932,
       "width" : 735,
       "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://a85cd2c7-c5f9-4e7f-9a2b-3e01841348cd",
+        "@context" : "https://iiif.io/api/presentation/2/context.json",
+        "@id" : "https://a85cd2c7-c5f9-4e7f-9a2b-3e01841348cd",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
@@ -59,25 +59,25 @@
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@context" : "https://iiif.io/api/image/2/context.json",
             "@id" : "https://nooor-a.github.io/MNDRdigital/images/Astrolabe",
-            "profile" : "http://iiif.io/api/image/2/level0.json"
+            "profile" : "https://iiif.io/api/image/2/level0.json"
           },
           "height" : 932,
           "width" : 735
         },
-        "on" : "http://b7b8405d-bb41-493d-ab95-ea8c8b8191c5"
+        "on" : "https://b7b8405d-bb41-493d-ab95-ea8c8b8191c5"
       } ],
       "related" : ""
     }, {
-      "@id" : "http://a463c9d1-6e43-47b1-a6b1-660388e09bac",
+      "@id" : "https://a463c9d1-6e43-47b1-a6b1-660388e09bac",
       "@type" : "sc:Canvas",
       "label" : "Stone Mihrab",
       "height" : 1190,
       "width" : 735,
       "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://61c17e0d-86d0-4a96-bd55-7a569bf5621e",
+        "@context" : "https://iiif.io/api/presentation/2/context.json",
+        "@id" : "https://61c17e0d-86d0-4a96-bd55-7a569bf5621e",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
@@ -85,25 +85,25 @@
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@context" : "https://iiif.io/api/image/2/context.json",
             "@id" : "https://nooor-a.github.io/MNDRdigital/images/StoneMihrab",
-            "profile" : "http://iiif.io/api/image/2/level0.json"
+            "profile" : "https://iiif.io/api/image/2/level0.json"
           },
           "height" : 1190,
           "width" : 735
         },
-        "on" : "http://a463c9d1-6e43-47b1-a6b1-660388e09bac"
+        "on" : "https://a463c9d1-6e43-47b1-a6b1-660388e09bac"
       } ],
       "related" : ""
     }, {
-      "@id" : "http://96d0a470-db6b-476c-82db-8daf788a4e76",
+      "@id" : "https://96d0a470-db6b-476c-82db-8daf788a4e76",
       "@type" : "sc:Canvas",
       "label" : "inkwell",
       "height" : 888,
       "width" : 735,
       "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://4221b9f1-a99d-4572-b265-92b41dd287d3",
+        "@context" : "https://iiif.io/api/presentation/2/context.json",
+        "@id" : "https://4221b9f1-a99d-4572-b265-92b41dd287d3",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
@@ -111,25 +111,25 @@
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@context" : "https://iiif.io/api/image/2/context.json",
             "@id" : "https://nooor-a.github.io/MNDRdigital/images/inkwell",
-            "profile" : "http://iiif.io/api/image/2/level0.json"
+            "profile" : "https://iiif.io/api/image/2/level0.json"
           },
           "height" : 888,
           "width" : 735
         },
-        "on" : "http://96d0a470-db6b-476c-82db-8daf788a4e76"
+        "on" : "https://96d0a470-db6b-476c-82db-8daf788a4e76"
       } ],
       "related" : ""
     }, {
-      "@id" : "http://9be154f2-be16-4ac7-9f9b-2b9053ee0231",
+      "@id" : "https://9be154f2-be16-4ac7-9f9b-2b9053ee0231",
       "@type" : "sc:Canvas",
       "label" : "The Clare Chasuble",
       "height" : 981,
       "width" : 735,
       "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://641f8b2c-bd1c-4982-88f4-8e2b2c847676",
+        "@context" : "https://iiif.io/api/presentation/2/context.json",
+        "@id" : "https://641f8b2c-bd1c-4982-88f4-8e2b2c847676",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
@@ -137,25 +137,25 @@
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@context" : "https://iiif.io/api/image/2/context.json",
             "@id" : "https://nooor-a.github.io/MNDRdigital/images/TheClareChasuble",
-            "profile" : "http://iiif.io/api/image/2/level0.json"
+            "profile" : "https://iiif.io/api/image/2/level0.json"
           },
           "height" : 981,
           "width" : 735
         },
-        "on" : "http://9be154f2-be16-4ac7-9f9b-2b9053ee0231"
+        "on" : "https://9be154f2-be16-4ac7-9f9b-2b9053ee0231"
       } ],
       "related" : ""
     }, {
-      "@id" : "http://4dcd652e-2c2f-4765-9331-59a7de9c7c97",
+      "@id" : "https://4dcd652e-2c2f-4765-9331-59a7de9c7c97",
       "@type" : "sc:Canvas",
       "label" : "Emperor Heraclius Coin",
       "height" : 981,
       "width" : 735,
       "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://f7dfaedc-b6d4-46ac-9350-f8a7d4e46f7e",
+        "@context" : "https://iiif.io/api/presentation/2/context.json",
+        "@id" : "https://f7dfaedc-b6d4-46ac-9350-f8a7d4e46f7e",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
@@ -163,25 +163,25 @@
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@context" : "https://iiif.io/api/image/2/context.json",
             "@id" : "https://nooor-a.github.io/MNDRdigital/images/EmperorHeracliusCoin",
-            "profile" : "http://iiif.io/api/image/2/level0.json"
+            "profile" : "https://iiif.io/api/image/2/level0.json"
           },
           "height" : 981,
           "width" : 735
         },
-        "on" : "http://4dcd652e-2c2f-4765-9331-59a7de9c7c97"
+        "on" : "https://4dcd652e-2c2f-4765-9331-59a7de9c7c97"
       } ],
       "related" : ""
     }, {
-      "@id" : "http://e4ca67cc-fd43-40c1-8328-1f0eed9be340",
+      "@id" : "https://e4ca67cc-fd43-40c1-8328-1f0eed9be340",
       "@type" : "sc:Canvas",
       "label" : "Dish",
       "height" : 981,
       "width" : 735,
       "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://4236b799-92fb-415e-8d56-d5b6c45444d4",
+        "@context" : "https://iiif.io/api/presentation/2/context.json",
+        "@id" : "https://4236b799-92fb-415e-8d56-d5b6c45444d4",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
@@ -189,25 +189,25 @@
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@context" : "https://iiif.io/api/image/2/context.json",
             "@id" : "https://nooor-a.github.io/MNDRdigital/images/Dish",
-            "profile" : "http://iiif.io/api/image/2/level0.json"
+            "profile" : "https://iiif.io/api/image/2/level0.json"
           },
           "height" : 981,
           "width" : 735
         },
-        "on" : "http://e4ca67cc-fd43-40c1-8328-1f0eed9be340"
+        "on" : "https://e4ca67cc-fd43-40c1-8328-1f0eed9be340"
       } ],
       "related" : ""
     }, {
-      "@id" : "http://61c8b6fc-ea5b-46ba-9b0d-5b2ddb56b0b2",
+      "@id" : "https://61c8b6fc-ea5b-46ba-9b0d-5b2ddb56b0b2",
       "@type" : "sc:Canvas",
       "label" : "The Salting Carpet",
       "height" : 989,
       "width" : 735,
       "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://ecd970f6-8a80-4014-9a14-5f082f638535",
+        "@context" : "https://iiif.io/api/presentation/2/context.json",
+        "@id" : "https://ecd970f6-8a80-4014-9a14-5f082f638535",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
@@ -215,25 +215,25 @@
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@context" : "https://iiif.io/api/image/2/context.json",
             "@id" : "https://nooor-a.github.io/MNDRdigital/images/TheSaltingCarpet",
-            "profile" : "http://iiif.io/api/image/2/level0.json"
+            "profile" : "https://iiif.io/api/image/2/level0.json"
           },
           "height" : 989,
           "width" : 735
         },
-        "on" : "http://61c8b6fc-ea5b-46ba-9b0d-5b2ddb56b0b2"
+        "on" : "https://61c8b6fc-ea5b-46ba-9b0d-5b2ddb56b0b2"
       } ],
       "related" : ""
     }, {
-      "@id" : "http://33a950bf-cb20-425c-9adf-0ea90e7e992f",
+      "@id" : "https://33a950bf-cb20-425c-9adf-0ea90e7e992f",
       "@type" : "sc:Canvas",
       "label" : "Panel",
       "height" : 479,
       "width" : 735,
       "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://5e9509a8-58a9-414f-95bc-383a6fe37463",
+        "@context" : "https://iiif.io/api/presentation/2/context.json",
+        "@id" : "https://5e9509a8-58a9-414f-95bc-383a6fe37463",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
@@ -241,25 +241,25 @@
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@context" : "https://iiif.io/api/image/2/context.json",
             "@id" : "https://nooor-a.github.io/MNDRdigital/images/Panel",
-            "profile" : "http://iiif.io/api/image/2/level0.json"
+            "profile" : "https://iiif.io/api/image/2/level0.json"
           },
           "height" : 479,
           "width" : 735
         },
-        "on" : "http://33a950bf-cb20-425c-9adf-0ea90e7e992f"
+        "on" : "https://33a950bf-cb20-425c-9adf-0ea90e7e992f"
       } ],
       "related" : ""
     }, {
-      "@id" : "http://1cca4ec2-15ba-438b-9a21-34f58f8a3b52",
+      "@id" : "https://1cca4ec2-15ba-438b-9a21-34f58f8a3b52",
       "@type" : "sc:Canvas",
       "label" : "Sword Sheath",
       "height" : 1307,
       "width" : 735,
       "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://cc996500-298b-4728-9d84-4237ae1b6f4f",
+        "@context" : "https://iiif.io/api/presentation/2/context.json",
+        "@id" : "https://cc996500-298b-4728-9d84-4237ae1b6f4f",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
@@ -267,25 +267,25 @@
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@context" : "https://iiif.io/api/image/2/context.json",
             "@id" : "https://nooor-a.github.io/MNDRdigital/images/SwordSheath",
-            "profile" : "http://iiif.io/api/image/2/level0.json"
+            "profile" : "https://iiif.io/api/image/2/level0.json"
           },
           "height" : 1307,
           "width" : 735
         },
-        "on" : "http://1cca4ec2-15ba-438b-9a21-34f58f8a3b52"
+        "on" : "https://1cca4ec2-15ba-438b-9a21-34f58f8a3b52"
       } ],
       "related" : ""
     }, {
-      "@id" : "http://451469fc-7971-4176-a51e-c191d49a178e",
+      "@id" : "https://451469fc-7971-4176-a51e-c191d49a178e",
       "@type" : "sc:Canvas",
       "label" : "Ring",
       "height" : 510,
       "width" : 735,
       "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://925e7e28-253f-4c27-9b80-94dfff2dc735",
+        "@context" : "https://iiif.io/api/presentation/2/context.json",
+        "@id" : "https://925e7e28-253f-4c27-9b80-94dfff2dc735",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
@@ -293,14 +293,14 @@
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@context" : "https://iiif.io/api/image/2/context.json",
             "@id" : "https://nooor-a.github.io/MNDRdigital/images/Ring",
-            "profile" : "http://iiif.io/api/image/2/level0.json"
+            "profile" : "https://iiif.io/api/image/2/level0.json"
           },
           "height" : 510,
           "width" : 735
         },
-        "on" : "http://451469fc-7971-4176-a51e-c191d49a178e"
+        "on" : "https://451469fc-7971-4176-a51e-c191d49a178e"
       } ],
       "related" : ""
     } ]
