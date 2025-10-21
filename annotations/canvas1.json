@@ -1,0 +1,6 @@
+{
+  "@context": "https://iiif.io/api/presentation/2/context.json",
+  "@id": "https://nooor-a.github.io/MNDRdigital/annotations/canvas1.json",
+  "@type": "sc:AnnotationList",
+  "resources": []
+}
